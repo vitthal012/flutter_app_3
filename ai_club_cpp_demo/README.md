@@ -1,6 +1,6 @@
 # ai_club_cpp_demo
 
-A new Flutter project.
+A new Flutter project.Its a demo app for a club of my college.
 
 ## Getting Started
 
