@@ -139,7 +139,7 @@ class EventCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      color: Theme.of(context).cardColor, // Use theme card color
+      color: Theme.of(context).cardColor,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(15),
       ),
@@ -191,7 +191,7 @@ class AboutPage extends StatelessWidget {
             Text(
               'We are a passionate group of enthusiasts focusing on technology and development. Our club hosts workshops, events, and networking opportunities to help you enhance your skills and meet like-minded people.',
               style: Theme.of(context).textTheme.bodyText1,
-            ),
+            ),//ai generated text
           ],
         ),
       ),
